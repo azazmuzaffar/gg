@@ -2897,13 +2897,13 @@
   ],
   "images": [
     {
-      "uri": "textures/INDO_baseColor.png"
+      "uri": "INDO_baseColor.png"
     },
     {
-      "uri": "textures/INDO_metallicRoughness.png"
+      "uri": "INDO_metallicRoughness.png"
     },
     {
-      "uri": "textures/INDO_normal.png"
+      "uri": "INDO_normal.png"
     }
   ],
   "materials": [
